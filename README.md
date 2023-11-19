@@ -1,16 +1,14 @@
-# world_time
+# World Time App
+# Features:
+World Clock: Access real-time information for multiple cities worldwide.<br>
+Timezone Conversion: Easily convert time between different time zones.<br>
+Customizable Interface: Customize the display to suit your preferences.<br>
 
-A new Flutter project.
+# Technologies Used:
+Flutter: Utilized to create a cross-platform mobile application.<br>
+Dart: Programming language used in Flutter development.<br>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# How to Use:
+Clone the repository to your local machine.<br>
+Open the project in Flutter-compatible IDE (such as Android Studio or Visual Studio Code).<br>
+Run the app on an emulator or a physical device.<br>
