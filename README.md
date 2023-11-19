@@ -1,16 +1,16 @@
-# World-Time-APP
-This Flutter application provides a sleek and user-friendly interface to access world time information efficiently. Developed using Dart language and Flutter framework, this app allows users to view current times across different countries globally.
+# world_time
 
-# Features:
-World Clock: Access real-time information for multiple cities worldwide.<br>
-Timezone Conversion: Easily convert time between different time zones.<br>
-Customizable Interface: Customize the display to suit your preferences.<br>
+A new Flutter project.
 
-# Technologies Used:
-Flutter: Utilized to create a cross-platform mobile application.<br>
-Dart: Programming language used in Flutter development.<br>
+## Getting Started
 
-# How to Use:
-1. Clone the repository to your local machine.<br>
-2. Open the project in Flutter-compatible IDE (such as Android Studio or Visual Studio Code).<br>
-3. Run the app on an emulator or a physical device.<br>
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
